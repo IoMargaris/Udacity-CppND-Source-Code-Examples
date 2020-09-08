@@ -1,7 +1,5 @@
 /**
  * @author [Ioannis Margaris]
-
- * @desc [description]
  */
 
 #include <iostream>
